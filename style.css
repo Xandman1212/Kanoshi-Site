@@ -1,0 +1,30 @@
+body {
+    background-color: #3D2C2E; /* Dark Brown */
+    color: #F1C27D; /* Golden Brown */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #5E3F3F; /* Rich Brown */
+    padding: 20px;
+    color: #FFD700; /* Gold */
+}
+
+nav a {
+    color: #FFF8DC; /* Light Cream */
+    text-decoration: none;
+    margin: 10px;
+}
+
+section {
+    background-color: #6D4D42; /* Wood-like accent */
+    padding: 20px;
+    border-radius: 8px;
+}
+
+footer {
+    padding: 10px;
+    background-color: #4B3621; /* Dark Wood */
+    color: white;
+}
