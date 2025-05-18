@@ -11,10 +11,17 @@ header {
     color: #FFD700; /* Gold */
 }
 
-nav a {
-    color: #FFF8DC; /* Light Cream */
-    text-decoration: none;
-    margin: 10px;
+nav button {
+    background-color: #FFD700; /* Gold */
+    color: #3D2C2E; /* Dark Brown */
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #F1C27D; /* Golden Brown */
 }
 
 section {
